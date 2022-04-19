@@ -14,6 +14,6 @@
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyGFLima&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   <div style="display: inline_block"><br>
-     <img align="right" alt="matrix" src="http://media3.giphy.com/media/fJ1eCBjmMoEvu/giphy.gif" height="150" style="border-radius:50px;
+     
      
 </div>
