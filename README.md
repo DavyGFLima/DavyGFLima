@@ -2,15 +2,14 @@
 
 - 📱💻 Cursando Sistema 
 - 📐📉 Eng & Arq
-<div>
-  <a href="https://github.com/DavyGFLima">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavyGFLima&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavyGFLima&layout=compact&langs_count=7&theme=blue"/>
-    </div>
+<div align="center">
+  <a href="https://github.com/davygflima">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=davygflima&show_icons=true&theme=darck&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davygflima&layout=compact&langs_count=7&theme=dracula"/>
+</div>
   <div> 
   <a href="https://www.instagram.com/davyguilherme_lima" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-    ![Snake animation](https://github.com/DavyGFLima/DavyGFLima/blob/output/github-contribution-grid-snake.svg)
     
   </div>
   
