@@ -1,7 +1,9 @@
 ### Helo Everybody 🌎, Davy Lima✌🏼 
 
-- 📱💻 Cursando Sistema 
-- 📐📉 Eng & Arq
+- 📱💻 Cursando Sitemas de Informática
+- 📐📉 Engenharia
+- Brasileiro
+- 2ºAno Ensino Médio
 <div align="center">
   <a href="https://github.com/davygflima">
   <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=davygflima&show_icons=true&theme=darck&include_all_commits=true&count_private=true"/>
