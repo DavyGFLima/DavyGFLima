@@ -5,7 +5,7 @@
 - Brasileiro
 - 📚 2ºAno Ensino Médio 
 - 
-<div align="center">
+<div>
   <a href="https://github.com/DavyGFLima">
   <img height="200em"  src="https://github-readme-stats.vercel.app/api?username=davygflima&show_icons=true&theme=darck&include_all_commits=true&count_private=true"/>
   <img height="200em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=davygflima&layout=compact&langs_count=7&theme=darck"/>
